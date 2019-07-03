@@ -1,0 +1,7 @@
+C:\Dev\loremipsum\C#\AED\EX01\EX01\bin\Debug\EX01.exe.config
+C:\Dev\loremipsum\C#\AED\EX01\EX01\bin\Debug\EX01.exe
+C:\Dev\loremipsum\C#\AED\EX01\EX01\bin\Debug\EX01.pdb
+C:\Dev\loremipsum\C#\AED\EX01\EX01\obj\Debug\EX01.csprojAssemblyReference.cache
+C:\Dev\loremipsum\C#\AED\EX01\EX01\obj\Debug\EX01.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\C#\AED\EX01\EX01\obj\Debug\EX01.exe
+C:\Dev\loremipsum\C#\AED\EX01\EX01\obj\Debug\EX01.pdb
