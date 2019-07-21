@@ -18,22 +18,22 @@ namespace EX10
             double iImc = iWeight / (iHeight * iHeight);
             Console.WriteLine(iImc);
 
-            switch (true)
+            switch (iImc)
             {
-                case iImc < 20:
-                    Console.WriteLine("below weight!");
+                case double n when (iImc < 20):
+                    Console.WriteLine("below 20!");
                     break;
-                case iImc <= 20 && iImc > 25:
-                    Console.WriteLine("asda");
+                case double n when (iImc > 20 && iImc < 25):
+                    Console.WriteLine("between 20 and 25");
                     break;
-                case iImc > 25 && iImc <= 30:
-                    Console.WriteLine("asdadsad");
+                case double n when (iImc > 25 && iImc < 30):
+                    Console.WriteLine("between 25 and 30");
                     break;
-                case iImc > 30 && iImc <= 35:
-                    Console.WriteLine("asdasd");
+                case double n when (iImc > 30 && iImc < 35):
+                    Console.WriteLine("between 30 and 35");
                     break;
                 default:
-                    Console.WriteLine("morbid obesity");
+                    Console.WriteLine("above 35!");
                     break;
 
             }
