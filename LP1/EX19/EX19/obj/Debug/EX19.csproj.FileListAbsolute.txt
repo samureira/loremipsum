@@ -1,0 +1,7 @@
+C:\Dev\loremipsum\AED\EX19\EX19\bin\Debug\EX19.exe.config
+C:\Dev\loremipsum\AED\EX19\EX19\bin\Debug\EX19.exe
+C:\Dev\loremipsum\AED\EX19\EX19\bin\Debug\EX19.pdb
+C:\Dev\loremipsum\AED\EX19\EX19\obj\Debug\EX19.csprojAssemblyReference.cache
+C:\Dev\loremipsum\AED\EX19\EX19\obj\Debug\EX19.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX19\EX19\obj\Debug\EX19.exe
+C:\Dev\loremipsum\AED\EX19\EX19\obj\Debug\EX19.pdb

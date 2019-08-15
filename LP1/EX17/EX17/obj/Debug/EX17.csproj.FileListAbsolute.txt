@@ -1,0 +1,7 @@
+C:\Dev\loremipsum\AED\EX17\EX17\bin\Debug\EX17.exe.config
+C:\Dev\loremipsum\AED\EX17\EX17\bin\Debug\EX17.exe
+C:\Dev\loremipsum\AED\EX17\EX17\bin\Debug\EX17.pdb
+C:\Dev\loremipsum\AED\EX17\EX17\obj\Debug\EX17.csprojAssemblyReference.cache
+C:\Dev\loremipsum\AED\EX17\EX17\obj\Debug\EX17.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX17\EX17\obj\Debug\EX17.exe
+C:\Dev\loremipsum\AED\EX17\EX17\obj\Debug\EX17.pdb

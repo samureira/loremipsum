@@ -1,0 +1,6 @@
+C:\Dev\loremipsum\AED\EX13\EX13\bin\Debug\EX13.exe.config
+C:\Dev\loremipsum\AED\EX13\EX13\bin\Debug\EX13.exe
+C:\Dev\loremipsum\AED\EX13\EX13\bin\Debug\EX13.pdb
+C:\Dev\loremipsum\AED\EX13\EX13\obj\Debug\EX13.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX13\EX13\obj\Debug\EX13.exe
+C:\Dev\loremipsum\AED\EX13\EX13\obj\Debug\EX13.pdb

@@ -1,0 +1,6 @@
+C:\Dev\loremipsum\AED\EX04\EX04\bin\Debug\EX04.exe.config
+C:\Dev\loremipsum\AED\EX04\EX04\bin\Debug\EX04.exe
+C:\Dev\loremipsum\AED\EX04\EX04\bin\Debug\EX04.pdb
+C:\Dev\loremipsum\AED\EX04\EX04\obj\Debug\EX04.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX04\EX04\obj\Debug\EX04.exe
+C:\Dev\loremipsum\AED\EX04\EX04\obj\Debug\EX04.pdb

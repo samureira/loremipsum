@@ -1,0 +1,6 @@
+C:\Dev\loremipsum\AED\EX16\EX16\bin\Debug\EX16.exe.config
+C:\Dev\loremipsum\AED\EX16\EX16\bin\Debug\EX16.exe
+C:\Dev\loremipsum\AED\EX16\EX16\bin\Debug\EX16.pdb
+C:\Dev\loremipsum\AED\EX16\EX16\obj\Debug\EX16.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX16\EX16\obj\Debug\EX16.exe
+C:\Dev\loremipsum\AED\EX16\EX16\obj\Debug\EX16.pdb

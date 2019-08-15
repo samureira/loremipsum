@@ -1,0 +1,7 @@
+C:\Dev\loremipsum\AED\EX10\EX10\bin\Debug\EX10.exe.config
+C:\Dev\loremipsum\AED\EX10\EX10\bin\Debug\EX10.exe
+C:\Dev\loremipsum\AED\EX10\EX10\bin\Debug\EX10.pdb
+C:\Dev\loremipsum\AED\EX10\EX10\obj\Debug\EX10.csprojAssemblyReference.cache
+C:\Dev\loremipsum\AED\EX10\EX10\obj\Debug\EX10.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX10\EX10\obj\Debug\EX10.exe
+C:\Dev\loremipsum\AED\EX10\EX10\obj\Debug\EX10.pdb

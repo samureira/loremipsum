@@ -1,0 +1,6 @@
+C:\Dev\loremipsum\AED\EX15\EX15\bin\Debug\EX15.exe.config
+C:\Dev\loremipsum\AED\EX15\EX15\bin\Debug\EX15.exe
+C:\Dev\loremipsum\AED\EX15\EX15\bin\Debug\EX15.pdb
+C:\Dev\loremipsum\AED\EX15\EX15\obj\Debug\EX15.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\AED\EX15\EX15\obj\Debug\EX15.exe
+C:\Dev\loremipsum\AED\EX15\EX15\obj\Debug\EX15.pdb
