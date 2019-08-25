@@ -4,3 +4,9 @@ C:\Dev\loremipsum\AED\EX18\EX18\bin\Debug\EX18.pdb
 C:\Dev\loremipsum\AED\EX18\EX18\obj\Debug\EX18.csproj.CoreCompileInputs.cache
 C:\Dev\loremipsum\AED\EX18\EX18\obj\Debug\EX18.exe
 C:\Dev\loremipsum\AED\EX18\EX18\obj\Debug\EX18.pdb
+C:\Dev\loremipsum\LP1\EX18\EX18\bin\Debug\EX18.exe.config
+C:\Dev\loremipsum\LP1\EX18\EX18\bin\Debug\EX18.exe
+C:\Dev\loremipsum\LP1\EX18\EX18\bin\Debug\EX18.pdb
+C:\Dev\loremipsum\LP1\EX18\EX18\obj\Debug\EX18.csproj.CoreCompileInputs.cache
+C:\Dev\loremipsum\LP1\EX18\EX18\obj\Debug\EX18.exe
+C:\Dev\loremipsum\LP1\EX18\EX18\obj\Debug\EX18.pdb

@@ -20,13 +20,13 @@ namespace EX19
                 number = int.Parse(Console.ReadLine());
                 Console.WriteLine("you entered the number " + number);
 
-                if (number > 100 && number < 200)
+                if (number >= 100 && number <= 200)
                 {
                     numbersAbove100And200 = numbersAbove100And200 + 1;
                 }
                 else
                 {
-                    numbersAbove100And200 = numbersAbove100And200;
+                    numbersAbove100And200 = numbersAbove100And200 + 0;
                 }
 
             } while (number != 0);

@@ -10,13 +10,32 @@ namespace EX20
     {
         static void Main(string[] args)
         {
-
-            int number;
+            int NumberEntered;
+            int PowNumber;
 
             do
             {
-                Console.WriteLine("Enter a number above 0 ( or press 0 to Exit )");
-            } while ();
+                Console.WriteLine("Enter a number: ");
+                NumberEntered = int.Parse(Console.ReadLine());
+                PowNumber = NumberEntered * NumberEntered;
+                Console.WriteLine("the power of the number " + NumberEntered + " is " + PowNumber);
+
+            } while (NumberEntered % 6 != 0);
+
+            //Console.WriteLine("Enter a number: ");
+            //int NumberEntered = int.Parse(Console.ReadLine());
+            //int PowNumber;
+
+            //while (NumberEntered % 6 != 0)
+            //{
+            //    Console.WriteLine("Enter a number: ");
+            //    NumberEntered = int.Parse(Console.ReadLine());
+            //    PowNumber = NumberEntered * NumberEntered;
+            //    Console.WriteLine("the power of the number "+ NumberEntered + " is "+ PowNumber);
+            //}
+
+            Console.WriteLine("You entered a multiple of 6 with the number " + NumberEntered);
+            Console.WriteLine("Program Terminated!");
         }
     }
 }
