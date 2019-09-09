@@ -1,1 +1,0 @@
-Code a program for the following problem: Read three numbers and display whether the numbers may or may not be sides of a triangle. If it is a triangle, classify it according to its sides.
