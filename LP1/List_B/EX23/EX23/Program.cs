@@ -16,8 +16,6 @@ namespace EX23
             int NegAccounts = 0;
             int AccountsQuantity = 0;
 
-            int NegPercentage;
-
             do
             {
                 Console.WriteLine("Enter account number");
@@ -27,28 +25,30 @@ namespace EX23
                 {
                     break;
                 }
+
+                Console.WriteLine("Enter account balance");
+                AccountBalance = int.Parse(Console.ReadLine());
+  
+                if (AccountBalance < 0)
+                {
+                    Console.WriteLine("Negative Balance!");
+                    NegAccounts = NegAccounts + 1;
+                }
                 else
                 {
-                    Console.WriteLine("Enter account balance");
-                    AccountBalance = int.Parse(Console.ReadLine());
-
-                    if (AccountBalance < 0)
-                    {
-                        Console.WriteLine("Negative Balance!");
-                        NegAccounts = NegAccounts + 1;
-                        AccountsQuantity = AccountsQuantity + 1;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Non-Negative Balance!");
-                        AccountsQuantity = AccountsQuantity + 1;
-                    }
+                    Console.WriteLine("Non-Negative Balance!");
                 }
+                AccountsQuantity = AccountsQuantity + 1;
 
             } while (AccountNumber > 0);
 
-            NegPercentage = (NegAccounts / AccountsQuantity) * 100;
-            Console.WriteLine("(-) Percentage: " + NegPercentage);
+            // NegPercentage = (NegAccounts / AccountsQuantity);
+            Console.WriteLine("NegAccounts: " + NegAccounts);
+            Console.WriteLine("AccountsQuantity: " + AccountsQuantity);
+            double NegPercentage = ((double)NegAccounts/AccountsQuantity)*100;
+            Console.WriteLine("NegPercentage: " + NegPercentage);
+            // Console.WriteLine("NegPercentage: " + NegPercentage);
+            //Console.WriteLine("% of Negative Accounts: " + NegPercentage);
         }
     }
 }
